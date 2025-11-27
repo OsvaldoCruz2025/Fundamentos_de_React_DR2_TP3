@@ -7,7 +7,6 @@ export default function App() {
     </div>
   );
 }
-
 function ProfileCard() {
   const dados = {
     nome: "Osvaldo",
